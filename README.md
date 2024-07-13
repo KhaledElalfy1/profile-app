@@ -1,3 +1,3 @@
  **Final App UI**
  
-[!ScreenShot](Screenshot.png)
+![ScreenShot](Screenshot.png)

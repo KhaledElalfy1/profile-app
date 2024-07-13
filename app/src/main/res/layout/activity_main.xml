@@ -25,6 +25,19 @@
 
     </androidx.cardview.widget.CardView>
 
+    <ImageButton
+        android:id="@+id/backbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="50dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/back"
+        app:layout_constraintEnd_toStartOf="@+id/cardView"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:importantForAccessibility="no" />
+
     <ImageView
         android:id="@+id/personIcon"
         android:layout_width="@dimen/iconSize"

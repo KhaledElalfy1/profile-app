@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="user_name">Khaled Elalfy</string>
+    <string name="email_address">khaledalfy53@gmail.com</string>
+    <string name="age">22 Years</string>
+    <string name="job">Mobile Apps Developer</string>
+</resources>
